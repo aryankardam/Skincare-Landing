@@ -6,7 +6,7 @@ A fully responsive and animated landing page built from a provided [Figma design
 👉 [View Live Website](https://skincare-landing-ten.vercel.app/)
 
 ## 📁 GitHub Repository
-👉 [GitHub Repo](https://github.com/your-username/skincare-landing-page)
+👉 [GitHub Repo](https://github.com/aryankardam/Skincare-Landing)
 
 ---
 
